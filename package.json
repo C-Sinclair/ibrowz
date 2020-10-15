@@ -1,0 +1,9 @@
+{
+  "name": "@sinclair/ibrowz",
+  "version": "0.0.1",
+  "description": "Expressive icon library",
+  "main": "dist/index.js",
+  "repository": "https://github.com/C-Sinclair/ibrowz",
+  "author": "conor <conor@sinclair.software>",
+  "license": "MIT"
+}
